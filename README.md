@@ -6,5 +6,5 @@
   * Sejal Pandeya
   * William Hunter
   * Amaka Odidika
-  * Stephen
+  * Stephen Nocera
   * Femi

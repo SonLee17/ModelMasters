@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the processed dataset with AAC features
-data = pd.read_csv("processed_sequences_features.csv")
+data = pd.read_csv("processed_features.csv")
 
 # Function to convert to binary classification
 def convert_to_binary(data, positive_class):

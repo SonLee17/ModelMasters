@@ -1,4 +1,4 @@
-# ModelMasters - Group 9
+# Model Masters - Group 9
 
 * Team Members
   * Hoang Le

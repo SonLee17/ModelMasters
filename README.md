@@ -1,4 +1,5 @@
 # CMSC435 Group Project Fall 2024
+Professor: Lukasz Kurgan
 
 ## Model Masters - Group 9
 * Team Members

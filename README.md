@@ -5,6 +5,6 @@
   * Sanie Fragata
   * Sejal Pandeya
   * William Hunter
-  * Amaka Odidika
   * Stephen Nocera
-  * Femi
+  * Femi Adepoju
+  * Amaka Odidika
